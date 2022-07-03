@@ -1,4 +1,4 @@
-package com.fastcampus.springwebflux
+package com.fastcampus.springwebflux.fn
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
